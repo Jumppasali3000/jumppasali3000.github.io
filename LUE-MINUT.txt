@@ -1,9 +1,18 @@
-JUMPPASALI 3000 — VERSIO 1.3
+JUMPPASALI 3000 — V1.4 (KETTUKUVAT)
 
-Pura ZIP ja lataa kaikki tiedostot GitHub Pages -repositoryn juureen. index.html, logo.jpg, icon.png, manifest.webmanifest ja liike-1.jpg ... liike-7.jpg kuuluvat samaan kansioon.
+Julkaisu GitHub Pagesiin:
+1. Pura tämä ZIP.
+2. Avaa jumppasali3000.github.io-repository GitHubissa.
+3. Lataa tiedostot repositorion JUUREEN (samaan kansioon index.html:n kanssa).
+4. Commit changes.
+5. Päivitä Safari tarvittaessa.
 
-Versio 1.3: uusi nimi ja logo, vapaaehtoinen kutsumanimi, asetukset ja omien tietojen poisto sekä JSON-varmuuskopion palautus. Ei käyttäjätilejä eikä palvelintietokantaa.
+Uutta:
+- Liikekortissa vain pysäytyskuva.
+- Kuvan napautus avaa suurennetun näkymän kaiken päälle.
+- Liikkeillä 1, 2 ja 3 on kahden asennon GIF-animaatiot.
+- Liikkeissä 4–7 käytetään edelleen aiempia oikeita valokuvia; niiden kettuanimaatioita ei vielä ole.
+- Aiempi treenihistoria säilyy samalla sivusto-osoitteella ja selaimella.
 
-TÄRKEÄÄ: Treenitiedot säilyvät päivityksessä vanhalla localStorage-avaimella mikon-sali-v1, jos julkaiset samassa osoitteessa ja samassa selaimessa. Älä tyhjennä sivuston tietoja! Ota varmuuskopio ennen päivitystä.
-
-Havainnekuvat on generoitu ja ne eivät korvaa koulutettua liikeohjausta.
+TÄRKEÄÄ: Vie varmuuskopio Historia-välilehdeltä ennen päivitystä.
+Kuvat ovat tekoälyllä tehtyjä havainnollistuksia, eivät tarkistettuja lääketieteellisiä tai teknisiä suoritusohjeita.
