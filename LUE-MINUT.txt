@@ -1,9 +1,6 @@
-Jumppasali 3000 v1.4.2 – iPhone-animaatiokorjaus
+Jumppasali 3000 v1.4.3 – kotivalikon animaatiokorjaus
 
-Pura ZIP ja lataa KAIKKI tiedostot GitHub Pages -repositoriosi juureen (index.html, kuvat, logo.png jne). Älä lataa pääkansiota sellaisenaan.
-
-Kolmen ensimmäisen liikkeen suurennusikkuna vaihtaa kahta JPG-ruutua JavaScriptillä GIF-tiedoston sijaan. Mukana on myös käsin käytettävä Vaihda asentoa -painike. Liikkeissä 4–7 pysäytyskuvat säilyvät.
-
-Treenihistoriaa käsittelevää tallennusavainta ei muutettu. Ota silti varmuuskopio Historia-välilehdeltä ennen päivitystä.
-
-Jos iPhonessa näkyy vanha sivu, päivitä sivu Safarissa ja tarkista versionumeroksi 1.4.2.
+Pura ZIP ja lataa kaikki tiedostot GitHub Pages -repositoryn juureen.
+Käytä versiota 1.4.3 ja testaa iPhonella myös kotivalikon kuvakkeesta.
+Animaatio vaihtaa 2 JPG-kuvaa CSS:llä, eikä käytä setInterval-ajastinta tai document.hidden-tarkistusta.
+Varmuuskopioi treenihistoria ennen päivitystä.
