@@ -1,6 +1,8 @@
-Jumppasali 3000 v1.4.3 – kotivalikon animaatiokorjaus
+Jumppasali 3000 v1.5.0
 
-Pura ZIP ja lataa kaikki tiedostot GitHub Pages -repositoryn juureen.
-Käytä versiota 1.4.3 ja testaa iPhonella myös kotivalikon kuvakkeesta.
-Animaatio vaihtaa 2 JPG-kuvaa CSS:llä, eikä käytä setInterval-ajastinta tai document.hidden-tarkistusta.
-Varmuuskopioi treenihistoria ennen päivitystä.
+Sisältää 7 kettupysäytyskuvaa ja 7 kahden kuvan vaihtuvaa havainnollistusta.
+Pura ZIP ja lataa kaikki tiedostot GitHub Pages -repositoriosi juurikansioon.
+Älä siirrä tiedostoja alikansioon. Ota Historia-välilehdeltä varmuuskopio ennen päivitystä.
+Treenitiedot pysyvät samassa selaimessa ja verkkotunnuksessa.
+
+Huomio: AI-kuvat ovat havainnekuvia. Laitteiden mekanismit ja suoritustekniikat eivät ole kliinisesti tai valmentajan tarkistamia. Erityisesti reiden koukistuksen kuva voi näyttää eri laitetyyppiä.
