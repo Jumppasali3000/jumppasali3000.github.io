@@ -1,9 +1,9 @@
-Jumppasali 3000 v1.4.1 – kettukuvien korjaus
+Jumppasali 3000 v1.4.2 – iPhone-animaatiokorjaus
 
-Kolmen ensimmäisen liikkeen pysäytyskuvissa näkyy nyt kettu.
-Napauttamalla kuvaa avautuu GIF-animaatio.
-Liikkeiden 4–7 animaatioita ei ole vielä tehty.
+Pura ZIP ja lataa KAIKKI tiedostot GitHub Pages -repositoriosi juureen (index.html, kuvat, logo.png jne). Älä lataa pääkansiota sellaisenaan.
 
-Pura ZIP ja lataa tiedostot suoraan GitHub Pages -repositoryn juureen.
-Korvaa vanhat saman nimiset tiedostot.
-Treenihistoria on edelleen paikallisessa selaintallennuksessa; tee varmuuskopio ennen päivittämistä.
+Kolmen ensimmäisen liikkeen suurennusikkuna vaihtaa kahta JPG-ruutua JavaScriptillä GIF-tiedoston sijaan. Mukana on myös käsin käytettävä Vaihda asentoa -painike. Liikkeissä 4–7 pysäytyskuvat säilyvät.
+
+Treenihistoriaa käsittelevää tallennusavainta ei muutettu. Ota silti varmuuskopio Historia-välilehdeltä ennen päivitystä.
+
+Jos iPhonessa näkyy vanha sivu, päivitä sivu Safarissa ja tarkista versionumeroksi 1.4.2.
