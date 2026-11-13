@@ -1,0 +1,9 @@
+JUMPPASALI 3000 — VERSIO 1.3
+
+Pura ZIP ja lataa kaikki tiedostot GitHub Pages -repositoryn juureen. index.html, logo.jpg, icon.png, manifest.webmanifest ja liike-1.jpg ... liike-7.jpg kuuluvat samaan kansioon.
+
+Versio 1.3: uusi nimi ja logo, vapaaehtoinen kutsumanimi, asetukset ja omien tietojen poisto sekä JSON-varmuuskopion palautus. Ei käyttäjätilejä eikä palvelintietokantaa.
+
+TÄRKEÄÄ: Treenitiedot säilyvät päivityksessä vanhalla localStorage-avaimella mikon-sali-v1, jos julkaiset samassa osoitteessa ja samassa selaimessa. Älä tyhjennä sivuston tietoja! Ota varmuuskopio ennen päivitystä.
+
+Havainnekuvat on generoitu ja ne eivät korvaa koulutettua liikeohjausta.
