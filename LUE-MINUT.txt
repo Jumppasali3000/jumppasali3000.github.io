@@ -1,18 +1,9 @@
-JUMPPASALI 3000 — V1.4 (KETTUKUVAT)
+Jumppasali 3000 v1.4.1 – kettukuvien korjaus
 
-Julkaisu GitHub Pagesiin:
-1. Pura tämä ZIP.
-2. Avaa jumppasali3000.github.io-repository GitHubissa.
-3. Lataa tiedostot repositorion JUUREEN (samaan kansioon index.html:n kanssa).
-4. Commit changes.
-5. Päivitä Safari tarvittaessa.
+Kolmen ensimmäisen liikkeen pysäytyskuvissa näkyy nyt kettu.
+Napauttamalla kuvaa avautuu GIF-animaatio.
+Liikkeiden 4–7 animaatioita ei ole vielä tehty.
 
-Uutta:
-- Liikekortissa vain pysäytyskuva.
-- Kuvan napautus avaa suurennetun näkymän kaiken päälle.
-- Liikkeillä 1, 2 ja 3 on kahden asennon GIF-animaatiot.
-- Liikkeissä 4–7 käytetään edelleen aiempia oikeita valokuvia; niiden kettuanimaatioita ei vielä ole.
-- Aiempi treenihistoria säilyy samalla sivusto-osoitteella ja selaimella.
-
-TÄRKEÄÄ: Vie varmuuskopio Historia-välilehdeltä ennen päivitystä.
-Kuvat ovat tekoälyllä tehtyjä havainnollistuksia, eivät tarkistettuja lääketieteellisiä tai teknisiä suoritusohjeita.
+Pura ZIP ja lataa tiedostot suoraan GitHub Pages -repositoryn juureen.
+Korvaa vanhat saman nimiset tiedostot.
+Treenihistoria on edelleen paikallisessa selaintallennuksessa; tee varmuuskopio ennen päivittämistä.
